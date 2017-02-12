@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAir</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="error_occurred_detail_activity">Error occurred</string>
+</resources>
